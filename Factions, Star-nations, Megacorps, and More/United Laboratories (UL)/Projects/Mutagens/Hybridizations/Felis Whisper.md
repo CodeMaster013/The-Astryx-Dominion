@@ -1,5 +1,5 @@
-📂 **United Laboratories — Project File**  
-**Designation:** Project: Felis Whisper 🐈  
+**United Laboratories — Project File**  
+**Designation:** Project: Felis Whisper
 **Category:** Hybridization — Stealth & Agility Unit  
 **Status:** Active Testing
 

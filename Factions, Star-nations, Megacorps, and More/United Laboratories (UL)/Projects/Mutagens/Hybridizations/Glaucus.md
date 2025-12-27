@@ -1,6 +1,6 @@
 # UNITED LABORATORIES — Project File
 
-**Designation:** Project: _Glaucus_ (Blue Glaucus Hybrid) 🐚  
+**Designation:** Project: _Glaucus_ (Blue Glaucus Hybrid)
 **Category:** Hybridization — Aquatic Stealth & Toxin-Adaptation Unit  
 **Status:** Active Testing (Limited Cohort)
 

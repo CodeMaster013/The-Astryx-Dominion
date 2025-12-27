@@ -15,7 +15,7 @@
 
 ### **I. Overview**
 
-Virelia represents the **perfect convergence of nature and engineered civilization**. Its surface is a delicate balance of **native biomes** preserved under UL environmental protocols and **urban networks** grown rather than built.  
+Virelia represents the **perfect convergence of nature and engineered civilization**. Its surface is a delicate balance of **native biomes** preserved under UL environmental protocols and **urban networks** that look grown rather than built.  
 The planet’s **forests shimmer faintly at night**, glowing in rhythmic pulses — a side effect of UL’s ecosystem calibration and bio-symbiotic integration experiments. Beneath this organic beauty, vast **subterranean laboratories and data cores** form a hidden skeleton — one that stores some of UL’s most secret research.
 
 Virelia is also the **strategic and administrative capital** of the Arctis Prime system, housing the **Central UL Command Node**, **High Council Chambers**, and **Planetary Defense Network Core**.
