@@ -112,7 +112,7 @@ Classified augmentations include:
     
 - **Cognitive Load Governors** (protect surrounding minds)
     
-- **Override Shutdown Nodes** (OVR-SERIES devices cannot override The Founder)
+- **Override Resonance Nodes** (synchronize with OVR-SERIES devices)
     
 - **Self-Terminating Fail-Safes** _(details sealed — Founder-authored)_
     
@@ -212,7 +212,7 @@ If the Founder ever:
 Then UL, its subsidiaries, and surrounding polities cease to be relevant **within hours**.
 
 > **Mnemosyne Archive Tag:**  
-> _“Founder is the single largest stabilizing variable in known civilization.”_
+> _“The Founder is the single largest stabilizing variable in known civilization.”_
 
 ---
 
