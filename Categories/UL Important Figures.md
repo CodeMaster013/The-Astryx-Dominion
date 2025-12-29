@@ -7,7 +7,7 @@
 - [[Founder Toolkit]]
 
 ### Other
-- [[Founder Monster Sheet]]
+- [[Founder Stat Block]]
 
 ## Executive Board
 - [[UL Executive Board]]
