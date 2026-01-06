@@ -141,7 +141,7 @@ The Halo engineered the collapse, then:
 - Left the rest to die
     
 
-The player survived because:
+The Kris's PC survived because:
 
 - He signed on
     
